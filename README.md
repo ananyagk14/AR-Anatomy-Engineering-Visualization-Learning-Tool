@@ -105,7 +105,7 @@ git clone https://github.com/your-username/your-repo-name.git
 
 ## 📸 Screenshots
 
-https://github.com/ananyagk14/AR-Anatomy-Engineering-Visualization-Learning-Tool/blob/main/WhatsApp%20Image%202026-04-25%20at%2011.17.35%20AM%20(1).jpeg
+
 
 ---
 
