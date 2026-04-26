@@ -1,0 +1,994 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3418258733984493787
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.00086
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00644
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      propertyPath: m_Name
+      value: turbine__turbofan_engine__jet_engine (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5984273587129565169}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -1270749078390588744}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9122833090769638499}
+    - targetCorrespondingSourceObject: {fileID: 3096350532385924822, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8266755726857885974}
+    - targetCorrespondingSourceObject: {fileID: 3096350532385924822, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 999879582050279296}
+    - targetCorrespondingSourceObject: {fileID: -4409553967980795369, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5408290093210997612}
+    - targetCorrespondingSourceObject: {fileID: -4409553967980795369, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1676429809176841312}
+    - targetCorrespondingSourceObject: {fileID: -3421796697017627320, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5550180393195761244}
+    - targetCorrespondingSourceObject: {fileID: -3421796697017627320, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3690558388741761939}
+    - targetCorrespondingSourceObject: {fileID: 3661182023027037043, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4877242764162942663}
+    - targetCorrespondingSourceObject: {fileID: 3661182023027037043, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5100200327413096678}
+    - targetCorrespondingSourceObject: {fileID: -6561962825787332330, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 139927176831198655}
+    - targetCorrespondingSourceObject: {fileID: -6561962825787332330, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5142923127908460115}
+    - targetCorrespondingSourceObject: {fileID: -6946452834586548108, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 943883226498637391}
+    - targetCorrespondingSourceObject: {fileID: -6946452834586548108, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1489578155294570528}
+    - targetCorrespondingSourceObject: {fileID: 3015375989234949221, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2942131203591684738}
+    - targetCorrespondingSourceObject: {fileID: 3015375989234949221, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7183973866073877979}
+    - targetCorrespondingSourceObject: {fileID: 2243156598665492385, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8197824243400579767}
+    - targetCorrespondingSourceObject: {fileID: 2243156598665492385, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5011783953042983177}
+    - targetCorrespondingSourceObject: {fileID: 1706517430213693161, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3974945045050491773}
+    - targetCorrespondingSourceObject: {fileID: 1706517430213693161, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4862752836663821955}
+    - targetCorrespondingSourceObject: {fileID: 8031574120041931958, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5848585857902163818}
+    - targetCorrespondingSourceObject: {fileID: 8031574120041931958, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1737703492672190562}
+    - targetCorrespondingSourceObject: {fileID: 148134813757665273, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4042519226852918005}
+    - targetCorrespondingSourceObject: {fileID: 148134813757665273, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2471732182696063675}
+    - targetCorrespondingSourceObject: {fileID: 6690309793818984216, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6858258079769486010}
+    - targetCorrespondingSourceObject: {fileID: 6690309793818984216, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8762653054459251084}
+    - targetCorrespondingSourceObject: {fileID: -4820990074894390757, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1963804190847755288}
+    - targetCorrespondingSourceObject: {fileID: -4820990074894390757, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1673602723149779156}
+    - targetCorrespondingSourceObject: {fileID: -1053862752297291188, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5919699473264068693}
+    - targetCorrespondingSourceObject: {fileID: -1053862752297291188, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1972367146881901706}
+    - targetCorrespondingSourceObject: {fileID: -8683946856261977805, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2057679637464093192}
+    - targetCorrespondingSourceObject: {fileID: -8683946856261977805, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8370130929639354221}
+    - targetCorrespondingSourceObject: {fileID: 1473946179499700887, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5428781080166257614}
+    - targetCorrespondingSourceObject: {fileID: 1473946179499700887, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5247642002267359390}
+    - targetCorrespondingSourceObject: {fileID: -3866493595243761230, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6864427980005337151}
+    - targetCorrespondingSourceObject: {fileID: -3866493595243761230, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7429372269507778011}
+    - targetCorrespondingSourceObject: {fileID: 3815113404277717168, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6512050477481899734}
+    - targetCorrespondingSourceObject: {fileID: 3815113404277717168, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2922058949809870472}
+    - targetCorrespondingSourceObject: {fileID: -5967381213157429088, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6408988377008410524}
+    - targetCorrespondingSourceObject: {fileID: -5967381213157429088, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4524043311454468752}
+  m_SourcePrefab: {fileID: 100100000, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+--- !u!1 &170998599628144763 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -5967381213157429088, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &6408988377008410524
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 170998599628144763}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.027174342, y: 0.014146276, z: 0.014146266}
+  m_Center: {x: 0.00514185, y: 0.000000005122274, z: 0}
+--- !u!114 &4524043311454468752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 170998599628144763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Flange Bolts / Casing Fasteners
+  description: connect and secure engine sections
+--- !u!1 &398685468976338445 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3096350532385924822, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &8266755726857885974
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 398685468976338445}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.026361179, y: 0.015734114, z: 0.015734114}
+  m_Center: {x: -0.005936807, y: 0.000000004656613, z: -0.000000004656613}
+--- !u!114 &999879582050279296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 398685468976338445}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Air System Components
+  description: pipes and valves controlling engine flow
+--- !u!1 &479875567933648062 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3015375989234949221, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &2942131203591684738
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 479875567933648062}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.03204778, y: 0.0122115705, z: 0.012923562}
+  m_Center: {x: 0.000053818338, y: 0.0000003555324, z: 0}
+--- !u!114 &7183973866073877979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 479875567933648062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Turbofan Fan,Fuel Line
+  description: draws air into engine,supplies fuel to combustor
+--- !u!1 &837425055081503181 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -6561962825787332330, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &139927176831198655
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 837425055081503181}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.0010721581, y: 0.011763577, z: 0.011763577}
+  m_Center: {x: -0.010264194, y: 0, z: 0}
+--- !u!114 &5142923127908460115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 837425055081503181}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Turbine section
+  description: extracts energy from hot gases to drive the engine
+--- !u!1 &1326449886710323904 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -4820990074894390757, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1963804190847755288
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1326449886710323904}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.0006798338, y: 0.013553325, z: 0.013553325}
+  m_Center: {x: -0.013398934, y: 0.0000000048894435, z: -0.0000000048894435}
+--- !u!114 &1673602723149779156
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1326449886710323904}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Mounting Lugs
+  description: hold engine sections together
+--- !u!1 &1982174654735337579 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3815113404277717168, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &6512050477481899734
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1982174654735337579}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.027174342, y: 0.014146276, z: 0.014146266}
+  m_Center: {x: 0.00514185, y: 0.000000005122274, z: 0}
+--- !u!114 &2922058949809870472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1982174654735337579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Casing Fasteners
+  description: bolts/rivets that hold engine sections together
+--- !u!1 &2143495254414140328 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3661182023027037043, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &4877242764162942663
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2143495254414140328}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.03896378, y: 0.01343706, z: 0.01343706}
+  m_Center: {x: -0.0018542735, y: 0.000000004656613, z: -0.000000004656613}
+--- !u!114 &5100200327413096678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2143495254414140328}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Compressor section
+  description: increases air pressure before combustion
+--- !u!1 &2571962089787133322 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5984273587129565169
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2571962089787133322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7363c82554a5aa44a954339ae1325eba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &-1270749078390588744
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2571962089787133322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c82110136d5d1245b1ccc167a57e6eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationSpeed: 0.2
+--- !u!65 &9122833090769638499
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2571962089787133322}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &2885809473638091240 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -8683946856261977805, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &2057679637464093192
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2885809473638091240}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.026289675, y: 0.012725789, z: 0.012345974}
+  m_Center: {x: -0.0059010554, y: 0, z: 0}
+--- !u!114 &8370130929639354221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2885809473638091240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Turbine Blades
+  description: extract energy from hot gases to power the engine
+--- !u!1 &3278162999774371618 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 148134813757665273, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &4042519226852918005
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3278162999774371618}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.037502185, y: 0.015302105, z: 0.015302105}
+  m_Center: {x: -0.00029792637, y: 0, z: 0}
+--- !u!114 &2471732182696063675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3278162999774371618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Inlet Lip,External Systems
+  description: smooth entry for incoming air,pipes and supports for fuel
+--- !u!1 &3481655519574361978 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2243156598665492385, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &8197824243400579767
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3481655519574361978}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.038739182, y: 0.014681991, z: 0.014681991}
+  m_Center: {x: -0.0007158173, y: 0, z: 0}
+--- !u!114 &5011783953042983177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3481655519574361978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Engine Nacelle
+  description: outer casing that covers and protects the engine
+--- !u!1 &3524389717287311535 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -6946452834586548108, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &943883226498637391
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3524389717287311535}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.0033836993, y: 0.007911009, z: 0.007911009}
+  m_Center: {x: 0.0026895588, y: 0, z: 0}
+--- !u!114 &1489578155294570528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3524389717287311535}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Diffuser
+  description: slows and directs compressed air into the combustor
+--- !u!1 &4097955404982779442 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1706517430213693161, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &3974945045050491773
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4097955404982779442}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.01887321, y: 0.013165283, z: 0.013165283}
+  m_Center: {x: -0.004989703, y: 0, z: 0}
+--- !u!114 &4862752836663821955
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4097955404982779442}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Combustor Liner
+  description: where fuel burns and airflow is controlled
+--- !u!1 &4252693309888791116 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1473946179499700887, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &5428781080166257614
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4252693309888791116}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.019525783, y: 0.015245091, z: 0.015861409}
+  m_Center: {x: -0.005086351, y: 0, z: 0}
+--- !u!114 &5247642002267359390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4252693309888791116}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Engine Core Casing + External Frame
+  description: outer structure with pipes and supports
+--- !u!1 &4613368472440951917 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8031574120041931958, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &5848585857902163818
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4613368472440951917}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.0012118779, y: 0.01189247, z: 0.011892109}
+  m_Center: {x: 0.00020121051, y: 0.000000005122274, z: -0.000000077765435}
+--- !u!114 &1737703492672190562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4613368472440951917}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Fuel Injectors
+  description: spray fuel into the combustor
+--- !u!1 &6786912939942625943 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -1053862752297291188, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &5919699473264068693
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6786912939942625943}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.035759024, y: 0.012428271, z: 0.012430938}
+  m_Center: {x: -0.0007509161, y: 0.0000020007137, z: -0.000000033993274}
+--- !u!114 &1972367146881901706
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6786912939942625943}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Fan Blade
+  description: draw air into engine and generate most thrust
+--- !u!1 &7288914071207379305 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -3866493595243761230, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &6864427980005337151
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7288914071207379305}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.03837935, y: 0.013335155, z: 0.013335155}
+  m_Center: {x: -0.0007365076, y: 0, z: 0}
+--- !u!114 &7429372269507778011
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7288914071207379305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Inlet Cowl / Intake Lip
+  description: front cover guiding air into engine
+--- !u!1 &7907764809088801484 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -4409553967980795369, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &5408290093210997612
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7907764809088801484}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.03880374, y: 0.006359526, z: 0.0063595353}
+  m_Center: {x: -0.001954765, y: 0, z: -0.000000004773028}
+--- !u!114 &1676429809176841312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7907764809088801484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Inlet Lip
+  description: he leading edge of the engine nacelle, designed to smoothly capture
+--- !u!1 &8334150231618752451 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6690309793818984216, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &6858258079769486010
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8334150231618752451}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.0038662073, y: 0.007859994, z: 0.007859994}
+  m_Center: {x: 0.002608352, y: 0, z: 0}
+--- !u!114 &8762653054459251084
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8334150231618752451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Compressor Exit
+  description: slows and directs compressed air
+--- !u!1 &9219798888761621907 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -3421796697017627320, guid: d032528de0c43394395aa25a06ecff08, type: 3}
+  m_PrefabInstance: {fileID: 3418258733984493787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &5550180393195761244
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9219798888761621907}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.016777327, y: 0.011030585, z: 0.011030585}
+  m_Center: {x: -0.010130911, y: 0, z: 0}
+--- !u!114 &3690558388741761939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9219798888761621907}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Combustion Chamber
+  description: fuel injectors, an igniter, a liner, and an outer casing, often in
+    annular

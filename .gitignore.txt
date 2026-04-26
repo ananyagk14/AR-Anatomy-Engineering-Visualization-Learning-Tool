@@ -1,0 +1,13 @@
+Library/
+Temp/
+Logs/
+Obj/
+Build/
+UserSettings/
+
+*.apk
+*.unitypackage
+*.csproj
+*.sln
+*.user
+*.log

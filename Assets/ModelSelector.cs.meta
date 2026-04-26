@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 24a744220f64e8a4b9b466d7ba4c083a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - heartPrefab: {fileID: 3638026955289978545, guid: 27bf44e8c490cbe4e99483a23b570a08, type: 3}
+  - kidneyPrefab: {fileID: 2294748931193571305, guid: b114548b131ca8f42802906d5cb9a13c, type: 3}
+  - enginePrefab: {fileID: 2571962089787133322, guid: 8eb0941bd1d599d4fb2ed9326a2f4a65, type: 3}
+  - selectedPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

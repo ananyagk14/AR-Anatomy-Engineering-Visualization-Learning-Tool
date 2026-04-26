@@ -1,0 +1,545 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4520971826353396704
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8779344865450136066, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43209c51a1ec4f848a4d8e0c211f76f8, type: 2}
+    - target: {fileID: -8679921383154817045, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0099
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.000013148784
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0015
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8292998568012771694, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43209c51a1ec4f848a4d8e0c211f76f8, type: 2}
+    - target: {fileID: -4929363789341574723, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43209c51a1ec4f848a4d8e0c211f76f8, type: 2}
+    - target: {fileID: -4509823143501964880, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43209c51a1ec4f848a4d8e0c211f76f8, type: 2}
+    - target: {fileID: -2214746704162569276, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43209c51a1ec4f848a4d8e0c211f76f8, type: 2}
+    - target: {fileID: -2040521313910045230, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43209c51a1ec4f848a4d8e0c211f76f8, type: 2}
+    - target: {fileID: 919132149155446097, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_Name
+      value: HumanHeart_FBX
+      objectReference: {fileID: 0}
+    - target: {fileID: 5562293570248774943, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43209c51a1ec4f848a4d8e0c211f76f8, type: 2}
+    - target: {fileID: 7203310629831063003, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43209c51a1ec4f848a4d8e0c211f76f8, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -260040125514173006}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6974109485466346383}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4796908760675650679}
+    - targetCorrespondingSourceObject: {fileID: -4470581672831600160, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 85050796764168155}
+    - targetCorrespondingSourceObject: {fileID: -4470581672831600160, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3035605782258959663}
+    - targetCorrespondingSourceObject: {fileID: 7256746652507878523, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8082263864568292159}
+    - targetCorrespondingSourceObject: {fileID: 7256746652507878523, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5934358537556847860}
+    - targetCorrespondingSourceObject: {fileID: -4431828624181229867, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3665211298273341310}
+    - targetCorrespondingSourceObject: {fileID: -4431828624181229867, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2152058664077284830}
+    - targetCorrespondingSourceObject: {fileID: 8017162648943654980, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5870353595006578167}
+    - targetCorrespondingSourceObject: {fileID: 8017162648943654980, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3094336816443134336}
+    - targetCorrespondingSourceObject: {fileID: 8536400945726557719, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2175734380570437817}
+    - targetCorrespondingSourceObject: {fileID: 8536400945726557719, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4895767599989115534}
+    - targetCorrespondingSourceObject: {fileID: 8536400945726557719, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4196795222206457533}
+    - targetCorrespondingSourceObject: {fileID: 3587788796799408565, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6980904089859482161}
+    - targetCorrespondingSourceObject: {fileID: 3587788796799408565, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5820505903703405551}
+    - targetCorrespondingSourceObject: {fileID: -955554445960909056, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7748999380294391352}
+    - targetCorrespondingSourceObject: {fileID: -955554445960909056, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7868194127226892717}
+    - targetCorrespondingSourceObject: {fileID: 4840549640280171420, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6728703682803630340}
+    - targetCorrespondingSourceObject: {fileID: 4840549640280171420, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8252998857974606085}
+  m_SourcePrefab: {fileID: 100100000, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+--- !u!1 &1114593674392306261 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3587788796799408565, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+  m_PrefabInstance: {fileID: 4520971826353396704}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &6980904089859482161
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1114593674392306261}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.056111496, y: 0.11617849, z: 0.0744731}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &5820505903703405551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1114593674392306261}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Right Pulmonary Surface
+  description: This surface faces the right lung and is formed primarily
+--- !u!1 &3638026955289978545 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+  m_PrefabInstance: {fileID: 4520971826353396704}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &-260040125514173006
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3638026955289978545}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &6974109485466346383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3638026955289978545}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7363c82554a5aa44a954339ae1325eba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4796908760675650679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3638026955289978545}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c82110136d5d1245b1ccc167a57e6eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationSpeed: 0.2
+--- !u!1 &5245238374779901431 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8536400945726557719, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+  m_PrefabInstance: {fileID: 4520971826353396704}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &2175734380570437817
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5245238374779901431}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.03226384, y: 0.065913506, z: 0.0749786}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &4895767599989115534
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5245238374779901431}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.03226384, y: 0.065913506, z: 0.0749786}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &4196795222206457533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5245238374779901431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Left Pulmonary Surface
+  description: This surface is broad and convex, facing the left lung. It is formed
+    almost exclusively by the left ventricle.
+--- !u!1 &5476526298373534944 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -955554445960909056, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+  m_PrefabInstance: {fileID: 4520971826353396704}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &7748999380294391352
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5476526298373534944}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.0136295, y: 0.0048979996, z: 0.013494199}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &7868194127226892717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5476526298373534944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Pulmonary Valve
+  description: ' Prevents backflow from the pulmonary artery into the right ventricle.'
+--- !u!1 &5908468859509613476 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8017162648943654980, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+  m_PrefabInstance: {fileID: 4520971826353396704}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &5870353595006578167
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5908468859509613476}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.0202144, y: 0.026412, z: 0.018616598}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &3094336816443134336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5908468859509613476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: 'mitral valve '
+  description: prevent backflow into atrium
+--- !u!1 &6487597225016520603 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7256746652507878523, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+  m_PrefabInstance: {fileID: 4520971826353396704}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &8082263864568292159
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6487597225016520603}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.051236197, y: 0.0508532, z: 0.0663931}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &5934358537556847860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6487597225016520603}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Middle Cardiac Vein
+  description: Located on the posterior (back) surface.
+--- !u!1 &8990113619741170997 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -4431828624181229867, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+  m_PrefabInstance: {fileID: 4520971826353396704}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &3665211298273341310
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8990113619741170997}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.053541098, y: 0.0738196, z: 0.0678993}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &2152058664077284830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8990113619741170997}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: ' Great Cardiac Veain'
+  description: Runs along the front of the heart, draining blood from the ventricles.
+--- !u!1 &9047909412162549884 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4840549640280171420, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+  m_PrefabInstance: {fileID: 4520971826353396704}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &6728703682803630340
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9047909412162549884}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.0186911, y: 0.0310847, z: 0.025415799}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &8252998857974606085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9047909412162549884}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Tricuspid Valve
+  description: ' Prevents backflow of blood from the right ventricle into the right
+    atrium.'
+--- !u!1 &9171855844908196352 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -4470581672831600160, guid: 4a9435457ee332e44bb883745c64662f, type: 3}
+  m_PrefabInstance: {fileID: 4520971826353396704}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &85050796764168155
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9171855844908196352}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.008689799, y: 0.009706399, z: 0.010657299}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &3035605782258959663
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9171855844908196352}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595a1ef7e46d75649b67d9450df5ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partName: Arotic Valve
+  description: Prevent backflow into left atrium
